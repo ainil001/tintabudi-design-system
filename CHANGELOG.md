@@ -1,0 +1,9 @@
+# Changelog
+
+## [1.0.0] - 2026-03-05
+
+### Added
+- Initial design system structure
+- Logo assets
+- Brand fonts
+- Reference documentation

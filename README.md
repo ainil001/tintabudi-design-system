@@ -1,1 +1,0 @@
-# tintabudi-design-system
